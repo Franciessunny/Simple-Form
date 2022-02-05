@@ -6,7 +6,7 @@
 }
 
 body{
-    background: linear-gradient(to right , red,blue);
+    background: linear-gradient(to left , red,blue);
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -14,7 +14,7 @@ body{
 }
 
 .container{
-    background: linear-gradient(to right , #2a0845,#6441a5);
+    background: linear-gradient(to left , #2a0845,#6441a5);
     box-shadow: rgb(0,0,0) 0px 5px 15px;
     width: 450px;
 }
@@ -22,7 +22,7 @@ body{
 .header{
     color: white;
     text-align: center;
-    background: linear-gradient(to right , blue,red);;
+    background: linear-gradient(to left , blue,red);;
     padding: 20px 40px;
     border-bottom: 2px solid #494848;
 }
